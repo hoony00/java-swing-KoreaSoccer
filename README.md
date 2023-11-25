@@ -1,5 +1,5 @@
 # 한국 축구 국가대표 관리 시스템 (Java Swing)
-### Blog https://hooninha.tistory.com/4       <p>
+### <a href ="https://hooninha.tistory.com/4"> Blog 바로가기</a>       <p>
 이 프로젝트는 Java Swing을 사용하여 한국 축구 국가대표 팀을 관리하는 시스템입니다. 시스템은 Oracle 데이터베이스를 활용하며, 선수 관리, 포메이션 설정, 경기 정보, 부상자 관리, 식단 관리 등 다양한 기능을 제공합니다. <p>
 
 ![image](https://github.com/hoony00/JSP_INHAtc_Web/assets/86902854/c2362c23-34b6-4092-851a-7af24d96d510.png)
